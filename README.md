@@ -43,6 +43,8 @@ Include or reference these visuals from your dashboard:
 
 - 📊 **Average Discount % by Category**  
   *(Bar chart showing category-wise average discounts, maxing at 58%)*
+  ![📊 Amazon Review Dashboard](./screenshot-1751216209359.png)
+
 
 - 💵 **Average of Actual vs Discounted Price**  
   *(Side-by-side column chart comparing actual and final prices)*
